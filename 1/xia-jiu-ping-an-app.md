@@ -41,7 +41,7 @@
 
 | Q: 我在 App Store 上找不到究平安。 |  |
 | --- | --- | --- | --- |
-| A: 若是無法於 App Store 上搜尋到究平安，即究平安不支援您的裝置，請參考究平安設備需求。 |  |
+| A: 若是無法於 App Store 上搜尋到究平安，即究平安不支援您的裝置，請參考[究平安設備需求](https://geothings.gitbook.io/geobingan-manual/~/edit/drafts/-LGdt-LZv4WmPBRD_GTZ/1/jiu-ping-an-xu-qiu)。 |  |
 | Q: 我沒辦法下載究平安。 |  |
 | A: 請檢查裝置是否符合究平安設備需求、網路連線是否正常、手機儲存空間是否足夠等。 |  |
 
